@@ -18,3 +18,4 @@ we can also ue git branch -D<branch name>
 git init--it is used to initialized the git in your local repo
 git status=it is used to check the status of your folder weather it is tracked or untrackedfies
 git add is used to make commit changes
+git config --global credential.helper store is used to authentication login
