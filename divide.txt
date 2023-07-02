@@ -1,0 +1,20 @@
+to exit from git bash we need to enter first esq and :wq
+after entering we will come out of the editor
+
+branching there are types of branching
+1)production
+2)testing
+3)deployment
+so here we will have our code in deployment level we will create branches under it under that branch named as vasanth and crate a feature branch to it add a file to it [vasanth/divide] merge with vasanth branch and then to the main branch.
+to creare branch git branch <branch name>
+to check branches we se git branch it shows how many branches are there and also where the present head is present
+
+to switch branch do git checkout <branch name>
+and to create branch and switch to that branch use git checkout -b <branchname>
+
+to delete branch git branch -d <branchname>
+we can also ue git branch -D<branch name>
+
+git init--it is used to initialized the git in your local repo
+git status=it is used to check the status of your folder weather it is tracked or untrackedfies
+git add is used to make commit changes

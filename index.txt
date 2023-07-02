@@ -1,0 +1,19 @@
+mkdir-make directory[to create a folder]
+
+touch-it is used to create a file under the folder
+
+ls-it is used to list the files means how many files are there under that folder
+
+cd -it is used to change the directory
+
+cd .. -it is used to go back to previous directory
+
+pwd-present working directory/path working directory
+
+ls-la=it is used to show all the folders
+
+ls-a=this is used to show all the hidden files as well
+
+.git=it is a hidden folder where any foldr starts with . it is represented as a hidden folder and it is a location/subfolder where gits gets created which has all the information about the versio control
+
+remember directory means folder
